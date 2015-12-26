@@ -1,7 +1,7 @@
 name: Harley
 favicon: null
-layout_spectrum: 0.2952829161658883
-typography_spectrum: 0.7346171922981739
+layout_spectrum: 0.18738
+typography_spectrum: 0.37431
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.4990686948876828
-  lightness: 0.4177415210288018
-  saturation: 0.49975748057477176
-  rhythmicContrast: 0.1553024984896183
+  brandStrength: 0.6875
+  lightness: 0.875
+  saturation: 0.875
+  rhythmicContrast: 0
 purpose: []
