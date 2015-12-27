@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Harley]]></title>
+        <description><![CDATA[Harley]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 27 Dec 2015 14:21:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Harley Finkelstein is an entrepreneur, lawyer, and the Chief Platform Officer (CPO) at Shopify. He founded his first company at age 17 while a student at McGill. Harley completed his law degree as well as his MBA at the University of Ottawa, where he co-founded the JD/MBA Student Society and the Canadian MBA Oath. Harley is on the Board of the C100, is an Advisor to Felicis Ventures & Omers Ventures, and is one of the new “Dragons” on CBC’s Next Gen Den.</p>]]></description>
+            <link>undefined1ff81bd3-952e-46d4-b2a4-4b42fc02b669/index.html</link>
+            <guid isPermaLink="false">1ff81bd3-952e-46d4-b2a4-4b42fc02b669</guid>
+            <pubDate>Sun, 27 Dec 2015 14:21:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
